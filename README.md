@@ -179,6 +179,7 @@
 
 ## Python 
 
+- [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for Starlette/FastAPI
 - [joshuap233/Operating-Systems-Three-Easy-Pieces-NOTES](https://github.com/joshuap233/Operating-Systems-Three-Easy-Pieces-NOTES) - 操作系统导论(ostep)笔记/课后习题答案/附加代码
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
