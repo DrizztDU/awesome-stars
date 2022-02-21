@@ -91,6 +91,7 @@
 
 ## HTML 
 
+- [solid/specification](https://github.com/solid/specification) - Solid Technical Reports
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
 - [reuixiy/hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) - You can’t spell aWEsoME without MEME! 😝
 - [Woile/willy-theme](https://github.com/Woile/willy-theme) - My personal theme for blog, web, etc
