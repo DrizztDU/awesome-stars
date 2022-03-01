@@ -63,6 +63,7 @@
 
 ## Go 
 
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [DrizztDU/drone-feishu](https://github.com/DrizztDU/drone-feishu) - Drone plugin for sending Feishu notifications.
 - [mattermost/mattermost-bot-sample-golang](https://github.com/mattermost/mattermost-bot-sample-golang) - 
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -92,6 +93,7 @@
 
 ## HTML 
 
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [solid/specification](https://github.com/solid/specification) - Solid Technical Reports
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
 - [reuixiy/hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) - You can’t spell aWEsoME without MEME! 😝
@@ -182,6 +184,8 @@
 
 ## Python 
 
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
+- [CharlesPikachu/DecryptLogin](https://github.com/CharlesPikachu/DecryptLogin) - DecryptLogin: APIs for loginning some websites by using requests.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for Starlette/FastAPI
 - [joshuap233/Operating-Systems-Three-Easy-Pieces-NOTES](https://github.com/joshuap233/Operating-Systems-Three-Easy-Pieces-NOTES) - 操作系统导论(ostep)笔记/课后习题答案/附加代码
