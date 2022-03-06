@@ -246,6 +246,7 @@
 
 ## Shell 
 
+- [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 - [Jiangmenghao/NUC8i5BEH](https://github.com/Jiangmenghao/NUC8i5BEH) - NUC8i5BEH Hackintosh
 - [tiangolo/dockerswarm.rocks](https://github.com/tiangolo/dockerswarm.rocks) - Docker Swarm mode rocks! Ideas, tools and recipes. Get a production-ready, distributed, HTTPS served, cluster in minutes, not weeks.
