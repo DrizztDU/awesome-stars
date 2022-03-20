@@ -66,6 +66,7 @@
 
 ## Go 
 
+- [mattermost/mmctl](https://github.com/mattermost/mmctl) - A remote CLI tool for Mattermost
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [DrizztDU/drone-feishu](https://github.com/DrizztDU/drone-feishu) - Drone plugin for sending Feishu notifications.
