@@ -9,6 +9,7 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
+  - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -63,6 +64,10 @@
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 - [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
 - [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
+
+## Emacs Lisp 
+
+- [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 
 ## Go 
 
