@@ -11,6 +11,7 @@
   - [CSS](#css)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -72,11 +73,12 @@
 
 ## Go 
 
+- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
+- [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
 - [jiujuan/go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
 - [mattermost/mmctl](https://github.com/mattermost/mmctl) - A remote CLI tool for Mattermost
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
-- [DrizztDU/drone-feishu](https://github.com/DrizztDU/drone-feishu) - Drone plugin for sending Feishu notifications.
 - [mattermost/mattermost-bot-sample-golang](https://github.com/mattermost/mattermost-bot-sample-golang) - 
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -101,6 +103,10 @@
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [b3log/pipe](https://github.com/b3log/pipe) - 🎷 一款小而美的博客平台，专为程序员设计。
+
+## HCL 
+
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 
 ## HTML 
 
@@ -214,7 +220,6 @@
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for Starlette/FastAPI
 - [joshuap233/Operating-Systems-Three-Easy-Pieces-NOTES](https://github.com/joshuap233/Operating-Systems-Three-Easy-Pieces-NOTES) - 操作系统导论(ostep)笔记/课后习题答案/附加代码
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
