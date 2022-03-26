@@ -73,6 +73,8 @@
 
 ## Go 
 
+- [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
+- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
 - [jiujuan/go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
