@@ -73,6 +73,7 @@
 
 ## Go 
 
+- [hashicorp/go-version](https://github.com/hashicorp/go-version) - A Go (golang) library for parsing and verifying versions and version constraints.
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -333,7 +334,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 
 ## reStructuredText 
