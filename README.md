@@ -161,6 +161,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 
 ## Kotlin 
@@ -177,6 +178,8 @@
 
 ## Others 
 
+- [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
+- [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 设计模式超简单的解释。
 - [milvus-cn/articles](https://github.com/milvus-cn/articles) - 收集和整理一些还不错的技术文章，帮助和我们一样的用户，把东西玩清楚。
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [Buernia/Tiejili](https://github.com/Buernia/Tiejili) - 铁蒺藜体，基于 Reggae One 的开源中文字体。An open-source font that extends Fontworks’ Reggae One to Chinese.
@@ -184,7 +187,7 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [ictar/python-doc](https://github.com/ictar/python-doc) - translate python documents to Chinese for convenient reference 简而言之，这里用来存放那些Python文档君们，并且尽力将其翻译成中文~~
 - [geerlingguy/ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
-- [solid/solid-spec](https://github.com/solid/solid-spec) - The Solid spec and architecture
+- [solid/solid-spec](https://github.com/solid/solid-spec) - Solid specification draft 0.7.0
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -233,17 +236,14 @@
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [pallets/werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
-- [karlicoss/orgparse](https://github.com/karlicoss/orgparse) - Python module for reading Emacs org-mode files
 - [Project-Mau/mau](https://github.com/Project-Mau/mau) - A lightweight markup language
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [l-O-O-l/TTS-action](https://github.com/l-O-O-l/TTS-action) - 
-- [felipesantiago/ansible-uptimerobot](https://github.com/felipesantiago/ansible-uptimerobot) - Ansible uptimerobot module
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [faster-cpython/cpython](https://github.com/faster-cpython/cpython) - The Python programming language
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts)
-- [readthedocs/sphinx-hoverxref](https://github.com/readthedocs/sphinx-hoverxref) - Tooltip with content embedded when hover an internal reference
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [docutils-mirror/docutils](https://github.com/docutils-mirror/docutils) - 
 - [MacHu-GWU/Python-OpenSource-Project-Developer-Guide](https://github.com/MacHu-GWU/Python-OpenSource-Project-Developer-Guide) - 教你如何做一个高大上的Pythonic Developer多快好省地做Python开源项目。包含GitHub代码托管, 在PyPI发布你的扩展包, 部署文档网站, 使用Travis-CI自动化测试, 一条龙全套服务。我做了一个工具, 可以让你仅仅填写项目名称和Python版本, 就自动生成你所需要的一切: https://github.com/MacHu-GWU/pygitrepo-project
@@ -313,11 +313,9 @@
 ## TypeScript 
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 - [staticdeploy/staticdeploy](https://github.com/staticdeploy/staticdeploy) - Open-Source Platform for Deploying Static Apps
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
