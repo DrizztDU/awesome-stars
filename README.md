@@ -224,6 +224,7 @@
 
 ## Python 
 
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [tabatkins/railroad-diagrams](https://github.com/tabatkins/railroad-diagrams) - :steam_locomotive: A small JS+SVG library for drawing railroad syntax diagrams, like on JSON.org. Now with a Python port!
 - [MaXuSun/SpringInternship](https://github.com/MaXuSun/SpringInternship) - 记录自己春招的整个流程（CV转推荐）
