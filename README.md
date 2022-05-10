@@ -109,7 +109,7 @@
 - [appleboy/drone-telegram](https://github.com/appleboy/drone-telegram) - Drone plugin for sending Telegram notifications
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
-- [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
+- [minio/minio](https://github.com/minio/minio) - Multi-Cloud Object Storage
 
 ## HCL 
 
