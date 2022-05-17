@@ -83,7 +83,7 @@
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
-- [jiujuan/go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
+- [jiujuan/go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
 - [mattermost/mmctl](https://github.com/mattermost/mmctl) - A remote CLI tool for Mattermost
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
