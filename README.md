@@ -74,6 +74,7 @@
 
 ## Go 
 
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
