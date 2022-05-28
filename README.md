@@ -227,7 +227,6 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [tabatkins/railroad-diagrams](https://github.com/tabatkins/railroad-diagrams) - :steam_locomotive: A small JS+SVG library for drawing railroad syntax diagrams, like on JSON.org. Now with a Python port!
-- [MaXuSun/SpringInternship](https://github.com/MaXuSun/SpringInternship) - 记录自己春招的整个流程（CV转推荐）
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
