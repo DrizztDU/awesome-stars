@@ -309,6 +309,7 @@
 
 ## Smarty 
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - Helm charts for applications you run at home
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik v2 helm chart
 
 ## Svelte 
