@@ -163,7 +163,7 @@
 - [shfshanyue/blog](https://github.com/shfshanyue/blog) - 在这里写一些工作中遇到的前端，后端以及运维的问题
 - [erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 - [hans-lizihan/bull-master](https://github.com/hans-lizihan/bull-master) - Nice UI for bull and bullmq
-- [walinejs/waline](https://github.com/walinejs/waline) - A Simple, Safe Comment System
+- [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
