@@ -222,7 +222,7 @@
 - [dily3825002/awesome-telegram-cn](https://github.com/dily3825002/awesome-telegram-cn) - telegram 开发资源、机器人资源整理
 - [amontalenti/elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 - [resumejob/free-project-course](https://github.com/resumejob/free-project-course) - Free course for Resume, 整理和搜集网络免费的项目实战课程，包括 Java 项目实战，Python 项目实战，C++ 项目实战等
-- [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享 - Program algorithm learning materials collection in Chinese
+- [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 - [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [yuyang2016/Chinese-Free-API](https://github.com/yuyang2016/Chinese-Free-API) - 持续收集国内免费优质API。
 - [JustFollowUs/Machine-Learning](https://github.com/JustFollowUs/Machine-Learning) - 
